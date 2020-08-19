@@ -1,4 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)]
 
 ##### Hi, I'm jaydipsinh:
 
